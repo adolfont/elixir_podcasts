@@ -1,6 +1,20 @@
 # ElixirPodcasts
 
-**TODO: Add description**
+The idea is, given a RSS, to gather information about Elixir podcasts such as:
+- title
+- site
+- links to the podcast on podcast plataforms
+- hosts/panelists
+- for each episode
+  - title
+  - number
+  - description
+  - duration
+- transcripts of episodes?
+- download files?
+
+And then aggregate this information.
+
 
 ## Installation
 
